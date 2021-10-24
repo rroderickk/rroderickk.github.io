@@ -1,6 +1,6 @@
-- name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
-  social_icon: Facebook
+- name: Linkedin
+  link: 'linkedin.com/in/rodrigo-andrés-moreno-pertúz-00875ba5'
+  social_icon: Linkedin
   new_window: true
 - name: RSS
   link: '/feed.xml'
