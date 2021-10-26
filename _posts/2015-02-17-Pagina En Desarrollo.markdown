@@ -1,10 +1,27 @@
 ---
 layout: post
+title: Raza vs Rodri
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
 
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
+<img src="/images/fulls/03.jpg" class="fit image">
+## **[Chapter 1](https://razacodes.io/python-tech-trivia-chapter-1){: target="_blank" rel="noopener"}**
+### **Rodri vs Razacodes.io**<br>
+Aquí estoy probando ve un vesus de la trivia #1 en [Razacodes.io](https://razacodes.io/python-tech-trivia-chapter-1){: target="_blank" rel="noopener"} VS lo que se me ocurre de codigo mientras aprendo sobre el lenguaje Python y otras cosas mas, lo que se me ocurra amiguitos...
 
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
+#### **Raza**
 
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+> | x = 'nowgoandcodesomepython' <br> print(x[-6::].title()) <br> X = 12 <br> Y = 4 <br> Z = 3 <br> print( X % Y \* Z )
+
+**Vs Rodri**
+
+> | x = 'nowgoandcodesomepython' <br> hola = str(x[-6::].title()) <br> print(hola.upper() + ' Raza') #Saludos amiguitos
+
+A manera de testear tu conocimiento, pones a prueba tu capacidad . si crees que tu respuesta es correcta usas un condicional que imprima lo que quieras si tu codigo es correcto.
+
+> | a = 12 <br> y = 4 <br> z = 3 <br> rython = (a%y\*z) <br> if rython == 0: #A manera de..... <br>
+    print(f"{str(rython)} hola mundo") #Si es correcta la lectura imprimirá la sentencia, y si nó... **SIGUE INTENTANDO jajajajaj**..
+
+--
+hola mundo.
+jaja.
+--
