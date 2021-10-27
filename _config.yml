@@ -2,8 +2,7 @@ locale: "en-US"
 title: RodrigoMorenoEng # Title of your site
 url: "http://rroderickk.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-google_analytics_key: "<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CRJMW196Y2"></script>
+google_analytics_key: "<script async src="https://www.googletagmanager.com/gtag/js?id=G-CRJMW196Y2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
