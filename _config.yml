@@ -2,7 +2,7 @@ locale: "en-US"
 title: RodrigoMorenoEng # Title of your site
 url: "http://rroderickk.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-google_analytics_key: "G-CRJMW196Y2"
+google_analytics_key: "G-VVZQ43P737"
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
