@@ -21,7 +21,8 @@ A manera de testear tu conocimiento, pones a prueba tu capacidad . si crees que 
 > | a = 12 <br> y = 4 <br> z = 3 <br> rython = (a%y\*z) <br> if rython == 0: #A manera de..... <br>
     print(f"{str(rython)} hola mundo") #Si es correcta la lectura imprimirá la sentencia, y si nó... **SIGUE INTENTANDO jajajajaj..**
 
---
+
 ## **Aqui cabe el juego ese que dicía Edison:**    
-## **"YO SE MAS DE CIEN FORMAS DE COMO NO FUNCIONA UNA BOMBILLA, ESTOY MAS CERCA DE PODERLO APRENDER..."**
---
+
+
+**`"YO SE MAS DE CIEN FORMAS DE COMO NO FUNCIONA UNA BOMBILLA, ESTOY MAS CERCA DE PODERLO APRENDER..."`**
