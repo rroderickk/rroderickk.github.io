@@ -26,3 +26,5 @@ A manera de testear tu conocimiento, pones a prueba tu capacidad . si crees que 
 
 
 **`"YO SE MAS DE CIEN FORMAS DE COMO NO FUNCIONA UNA BOMBILLA, ESTOY MAS CERCA DE PODERLO APRENDER..."`**
+
+
