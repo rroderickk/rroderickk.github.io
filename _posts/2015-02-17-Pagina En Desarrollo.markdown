@@ -32,4 +32,4 @@ A manera de testear tu conocimiento, pones a prueba tu capacidad . si crees que 
 ### **Aqui cabe el juego ese que dicía Edison:**    
 
 #### "`SÉ MAS DE CIEN FORMAS DE COMO NO FUNCIONA UNA BOMBILLA`
-#### `ESTOY MAS CERCA DE PODERLO APRENDER`"
+#### `ESTOY MAS CERCA DE LOGRAR ENCENDERLA`"
