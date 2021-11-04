@@ -1,0 +1,171 @@
+[33mcommit 059104c2786de4335edb5897e1be72636220c738[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/rroderickk-patch-2[m[33m, [m[1;32mrroderickk-patch-2[m[33m)[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Mon Oct 25 15:09:02 2021 -0500
+
+    Update social.yml
+
+[33mcommit 69ebc55ece649fc95443dd70eb0a32798724a4a5[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Mon Oct 25 14:36:19 2021 -0500
+
+    Update default.html
+    
+    Links
+
+[33mcommit 9c6c3f1d26decd0083d0494fc2108e83424ce18c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Mon Oct 25 13:57:18 2021 -0500
+
+    Ac
+    
+    Ac
+
+[33mcommit abfe23ee33c2eb3c0c7e8a9bea1637d81f3520db[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Mon Oct 25 13:53:37 2021 -0500
+
+    Ac
+
+[33mcommit 50e3e5c2fccfc0564410406d17dfae0e858bccf0[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Mon Oct 25 13:51:24 2021 -0500
+
+    Update default.html
+
+[33mcommit 1dddd2987083597b196cfd57f7e1bd41f9066466[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 15:36:05 2021 -0500
+
+    Rename 2015-02-17-PaginaEnDesarrollo.markdown to 2015-02-17-Pagina En Desarrollo.markdown
+
+[33mcommit 9e735aec37b5ca0203b3d53a687a2a4cc4e9808b[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 15:35:15 2021 -0500
+
+    Rename 2015-02-17-curabitur.markdown to 2015-02-17-PaginaEnDesarrollo.markdown
+
+[33mcommit c3dc6ac6adda26bfac847ff542d702406ddb832d[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 15:13:35 2021 -0500
+
+    Update social.yml
+
+[33mcommit 0fd04be5c7085f1ef6082fd588d20b7d41054980[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 15:11:21 2021 -0500
+
+    Update default.html
+
+[33mcommit e3e5243122beec3921bed1e00446199a3cbeb1ef[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 15:06:17 2021 -0500
+
+    Update default.html
+
+[33mcommit c9cadac81c28990ffcd70c31909b44858ba7110e[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 15:02:35 2021 -0500
+
+    Update default.html
+
+[33mcommit 560c54a3462b8bd007f5e89ee72ac3ead4ef4b74[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 15:00:34 2021 -0500
+
+    Update default.html
+
+[33mcommit 0b709896657a0dd5318e2625c37e52dfb3c79d75[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 14:56:48 2021 -0500
+
+    Update default.html
+
+[33mcommit 46c0d2c1c9266ae6c830bf6f879e0c8bb8a448da[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 14:50:18 2021 -0500
+
+    Update default.html
+
+[33mcommit 120ce4231493184828a2c7e0410c640a351d2b19[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 14:47:40 2021 -0500
+
+    Add files via upload
+
+[33mcommit 6dde3aaf1bfa06b91af7717c29697113e09ce840[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 14:46:33 2021 -0500
+
+    Delete avatar.jpg
+
+[33mcommit 959a938e22f87d47bcedcd827aed3533fbd867b7[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 14:44:04 2021 -0500
+
+    Update 2015-01-30-Lorem.markdown
+
+[33mcommit 7c485f2e04e1b8eef3acd33dc3fcc102eec347b1[m
+Author: RodrigoMoreno <rroderickk@gmail.com>
+Date:   Sun Oct 24 14:41:54 2021 -0500
+
+    Update _config.yml
+
+[33mcommit e86c32522fed3b0f76a3178278c48d990e1d81e1[m
+Merge: b192156 8b05396
+Author: Mike Neumegen <mneumegen@gmail.com>
+Date:   Mon Jan 23 09:47:28 2017 -0800
+
+    Merge pull request #12 from comfusion/master
+    
+    Strata Reloaded by Comfusion
+
+[33mcommit 8b053966666a82e8afb4ce33174fe540b7e4bc01[m
+Author: Josh Habdas <jhabdas@gmail.com>
+Date:   Sat Jan 21 18:09:15 2017 +0800
+
+    Fix issue with new posts now showing
+
+[33mcommit 0c9e3e7c73e37394c3e5956441c0f222119ffea7[m
+Author: Josh Habdas <jhabdas@gmail.com>
+Date:   Sun Jan 15 11:21:29 2017 +0800
+
+    Don't output GA tag by default
+
+[33mcommit 30ba24599d285f6238caca8c3840eee4122d5218[m
+Author: Josh Habdas <jhabdas@gmail.com>
+Date:   Sun Jan 15 10:47:20 2017 +0800
+
+    Bump SEO Tag Gem for Yandex, Bing, Alexa
+
+[33mcommit 81b82289d064bb7750701ac6cca416e3143f5288[m
+Author: Josh Habdas <jhabdas@gmail.com>
+Date:   Thu Jan 12 13:23:40 2017 +0800
+
+    Reload by Comfusion
+
+[33mcommit b1921567ded54c4056ab0d69b21785f29b633316[m
+Merge: a50cff3 74e9551
+Author: Mike Neumegen <mneumegen@gmail.com>
+Date:   Sun Jun 14 15:29:48 2015 -0700
+
+    Merge pull request #1 from aleksandar-todorovic/master
+    
+    Replaced social icons with the relative path
+
+[33mcommit 74e9551d90e7bf27b1b156d43d08d5c16d094e7d[m
+Author: Aleksandar Todorović <aleksandar.todorovic@mail.ru>
+Date:   Sat Jun 13 19:48:33 2015 +0200
+
+    Replaced social icons with the relative path
+
+[33mcommit a50cff34605fb50fe1ace1a906dd2b2a770b494d[m
+Author: Mike Neumegen <mneumegen@gmail.com>
+Date:   Sun Apr 26 11:30:02 2015 -0700
+
+    Init
+
+[33mcommit 8e32851b55a6bdab7e11f7f6bbb455bb74d79491[m
+Author: Mike Neumegen <mneumegen@gmail.com>
+Date:   Sun Apr 26 11:24:31 2015 -0700
+
+    Initial commit
