@@ -29,6 +29,9 @@ date: 2021-10-29 23:00:00
 
 <img src="\images\fulls\09.png" class="fit image">
 
+<img src="\images\fulls\10.png" class="fit image">
+
+<img src="\images\fulls\11.png" class="fit image">
 ### **meta**
 
 ```
