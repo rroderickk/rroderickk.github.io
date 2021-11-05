@@ -12,13 +12,15 @@ description: > # this means to ignore newlines until "baseurl:"
 author:
   name: Rodrigo Moreno
   email: rroderickk@gmail.com
-  twitter: # twitter username without the @ symbol
+  LinkedIn: https://www.linkedin.com/in/rodrigo-moreno-rr
 
 # Social details for the jekyll-seo-tag gem
 social:
   name: Strata Reloaded Template
   links:
-    - https:/rroderickk.github.io
+    - Github: https://rroderickk.github.io/
+    - LinkedIn: https://www.linkedin.com/in/rodrigo-moreno-rr
+
 
 permalink: pretty
 
