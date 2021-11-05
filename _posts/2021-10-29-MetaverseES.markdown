@@ -27,6 +27,8 @@ date: 2021-10-29 23:00:00
 
 <img src="\images\fulls\08.png" class="fit image">
 
+<img src="\images\fulls\09.png" class="fit image">
+
 ### **meta**
 
 ```
@@ -36,3 +38,4 @@ meta meta meta meta
 ---
 **Hey la diversion no acaba aqui, puedes revisar el archivo original [get the PDF](/assets/metaverse.pdf){: target="_blank" rel="noopener noreferrer"}**
 ---
+
