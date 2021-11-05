@@ -32,7 +32,7 @@ date: 2021-10-29 23:00:00
 ### **meta**
 
 ```
-Hola katheM como estaS?
+Hola como estaS?
 ```
 
 ---
