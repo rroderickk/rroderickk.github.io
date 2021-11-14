@@ -1,4 +1,5 @@
 # Strata Reloaded
+##### Este es el tema que use! es gratis.... si quieres usalo!
 
 Simple, clean personal blogging template for Jekyll based on Strata by HTML5 UP.
 
