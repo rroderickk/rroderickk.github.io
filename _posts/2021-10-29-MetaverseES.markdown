@@ -47,6 +47,8 @@ aqui hay una obra de ciencia ficcion que te puede abrir la mente
 hacia donde puede ir el futuro o no....
 ```
 
+### Soy un viajero del tiempo vengo del año 2062, Una pandemia acabó con toda la humanidad, y debo detener al paciente cero.
+
 <iframe width="100%" height="530" src="https://www.youtube.com./embed/PzKd5cFe3pM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 **Hey la diversion no acaba aqui, puedes revisar el archivo original [get the PDF](/assets/metaverse.pdf){: target="_blank" rel="noopener noreferrer"}**
