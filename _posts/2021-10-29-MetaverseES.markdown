@@ -39,7 +39,15 @@ Espero te estes disfrutando el post aqui un buen video de Platzi
 resumiendo buena informacion actual "Noviembre 2021"
 sobre el Metaverso.
 ```
-<iframe width="720  " height="530" src="https://www.youtube.com/embed/jUjstwJamm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720  " height="530" src="https://www.youtube.com./embed/jUjstwJamm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+```
+Si aun crees que esto es muy loco o no imaginas su potencial
+aqui hay una obra de ciencia ficcion que te puede abrir la mente
+hacia donde puede ir el futuro o no....
+```
+
+<iframe width="720" height="530" src="https://www.youtube.com./embed/PzKd5cFe3pM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 **Hey la diversion no acaba aqui, puedes revisar el archivo original [get the PDF](/assets/metaverse.pdf){: target="_blank" rel="noopener noreferrer"}**
 ---
