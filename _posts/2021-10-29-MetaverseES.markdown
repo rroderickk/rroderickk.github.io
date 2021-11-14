@@ -35,9 +35,11 @@ date: 2021-10-29 23:00:00
 ### **meta**
 
 ```
-Hola como estaS?
+Espero te estes disfrutando el post aqui un buen video de Platzi 
+resumiendo buena informacion actual "Noviembre 2021"
+sobre el Metaverso.
 ```
-
+<iframe width="720  " height="530" src="https://www.youtube.com/embed/jUjstwJamm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 **Hey la diversion no acaba aqui, puedes revisar el archivo original [get the PDF](/assets/metaverse.pdf){: target="_blank" rel="noopener noreferrer"}**
 ---
