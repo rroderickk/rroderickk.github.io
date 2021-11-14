@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: rroderickk.github.io
-Token: 8947a3cd388b7e137b2746d67d82098c913b211ec655e88704551bf845ad9c53
