@@ -1,14 +1,47 @@
 ---
-layout: post
-title: Suspendisse pellentesque
-date: 2015-02-06T14:37:44.000Z
+layout: post title: Suspendisse pellentesque date: 2015-02-06T14:37:44.000Z
 categories: update
 ---
+# reactMatrixBackgroundWeb
 
-<img src="/images/fulls/01.jpg" class="fit image"> Suspendisse pellentesque mollis turpis, vitae ullamcorper arcu sagittis in. Pellentesque viverra, diam vel ultrices lobortis, urna diam efficitur diam, non ultricies enim massa et neque. Mauris lacinia purus nibh, ac consequat mi molestie ac. Suspendisse at sapien ac magna posuere imperdiet eget id nisi.
+<img src="/images/fulls/emtheme/rightyellow.gif" class="fit image">
 
-Nulla facilisi. Pellentesque id magna eu sapien consectetur pulvinar nec eget massa. Nunc ut volutpat felis. Vestibulum pharetra ligula vel mattis aliquam. Etiam tempor vitae nulla nec euismod. Vivamus eget justo libero. Curabitur dictum, turpis vel porttitor semper, elit turpis vehicula nibh, quis mollis metus tortor at magna.
+#### The React component with vanilla HTML5 canvas (using hooks)
 
-Maecenas posuere sodales magna id tincidunt. Nunc sapien ipsum, efficitur et mauris nec, tristique gravida leo. Donec at bibendum lectus, sit amet fringilla risus. Donec et justo mi. In risus risus, faucibus eget eros eget, tincidunt posuere purus. Maecenas porta lacus metus, nec varius enim egestas ac. In hac habitasse platea dictumst. Nullam a nisi nulla. Nam vel varius enim, sit amet fringilla massa. Proin vel aliquam felis, quis scelerisque arcu.
+<img src="/images/fulls/emtheme/screenshot.gif" class="fit image">
 
-Sed consequat mi id malesuada efficitur. Vestibulum efficitur tortor ut dictum porta. Morbi dapibus viverra risus, et laoreet lorem commodo et. Donec hendrerit posuere magna a efficitur. Nullam euismod eget nulla eget iaculis. Donec porttitor faucibus porta. Morbi et risus dolor. Mauris venenatis sem id neque hendrerit ultrices.
+#### For change the theme change your branch all console my friend
+
+# Cambiando de branch cambias el efecto.
+
+#### g c o
+```
+alias gco=git checkout original = para volver al original
+```
+
+#### g c y
+```
+alias gcy=git checkout rightYellow
+```
+
+![rightYellow](/images/fulls/emtheme/rightyellowTrim.jpg)
+
+#### g c l 1
+
+![gcl1](/images/fulls/emtheme/gcl1.png)
+
+#### g c l 2
+
+![gcl2](/images/fulls/emtheme/gcl2.png)
+
+#### g c l 3
+
+![gcl3](/images/fulls/emtheme/gcl3.png)
+
+#### g c l 4
+
+![gcl4](/images/fulls/emtheme/gcl4.jpg)
+
+#### g c l 5
+
+![glc5](/images/fulls/emtheme/gcl5.png)
