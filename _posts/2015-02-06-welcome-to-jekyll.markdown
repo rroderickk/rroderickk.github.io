@@ -24,24 +24,19 @@ alias gco=git checkout original = para volver al original
 alias gcy=git checkout rightYellow
 ```
 
-![rightYellow](/images/fulls/emtheme/rightyellowTrim.jpg)
+<img src="/images/fulls/emtheme/rightyellowTrim.jpg" class="fit image" ref="rightYellowTrim">
 
 #### g c l 1
-
-![gcl1](/images/fulls/emtheme/gcl1.png)
+<img src="/images/fulls/emtheme/gcl1.png" class="fit image" ref="glc1">
 
 #### g c l 2
-
-![gcl2](/images/fulls/emtheme/gcl2.png)
+<img src="/images/fulls/emtheme/gcl2.png" class="fit image" ref="glc2">
 
 #### g c l 3
-
-![gcl3](/images/fulls/emtheme/gcl3.png)
+<img src="/images/fulls/emtheme/gcl3.png" class="fit image" ref="glc3">
 
 #### g c l 4
-
-![gcl4](/images/fulls/emtheme/gcl4.jpg)
+<img src="/images/fulls/emtheme/gcl4.jpg" class="fit image" ref="glc4">
 
 #### g c l 5
-
-![glc5](/images/fulls/emtheme/gcl5.png)
+<img src="/images/fulls/emtheme/gcl5.png" class="fit image" ref="glc5">

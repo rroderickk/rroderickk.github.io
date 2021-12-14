@@ -1,6 +1,19 @@
 @import url("font-awesome.min.css");
 @import url("//fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
 
+#canvasMatrix{
+    width: auto ;
+    padding: -1rem;
+}
+#span1 {
+    text-shadow: 2px 2px 20px #ff0990;
+    box-shadow: 2px 2px 20px #ff0990,2px 2px 40px #ff0990,2px 2px 90px #ff0990;
+    padding: -1rem;
+}#span1:hover {
+    text-shadow: 2px 2px 20px #ff0990;
+    box-shadow: 2px 2px 20px #ffff,2px 2px 40px #ffff,2px 2px 90px #ff0990;
+    padding: -1rem;
+}
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
