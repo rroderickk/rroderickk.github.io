@@ -2,8 +2,9 @@
 @import url("//fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
 
 #canvasMatrix{
-    width: auto ;
+    width: 100%; 
     padding: -1rem;
+    height: 40%; 
 }
 #span1 {
     text-shadow: 2px 2px 20px #ff0990;
@@ -1622,6 +1623,7 @@
 
 	h1 {
 		font-size: 2em;
+		text-shadow: 2px -2px 9px #1f0;
 		line-height: 1.5em;
 	}
 
@@ -1638,6 +1640,7 @@
 	h4 {
 		font-size: 1.1em;
 		line-height: 1.5em;
+		text-shadow: 2px -2px 9px #ffff;
 	}
 
 	h5 {
@@ -1971,6 +1974,8 @@
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+        border-radius: 100%;
+        box-shadow: 2px 2px 44px #ff0990;
 	}
 
 		.icon:before {
@@ -1980,7 +1985,15 @@
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
-		}
+            border-radius: 100%;
+            box-shadow: 2px 2px 44px #ff0000;
+		}.icon:hover {
+		text-decoration: none;
+		border-bottom: none;
+		position: relative;
+        border-radius: 100%;
+        box-shadow: 2px 2px 44px #fff;
+	}
 
 		.icon > .label {
 			display: none;
@@ -2095,6 +2108,10 @@
 			.image.avatar img {
 				border-radius: 100%;
 				width: 100%;
+			}.image.avatar:hover img {
+				border-radius: 100%;
+				width: 100%;
+                box-shadow: 2px 2px 99px cyan, 2px 2px 44px rgb(109, 1, 151);
 			}
 
 /* List */
@@ -3125,6 +3142,7 @@
 		white-space: nowrap;
 		border: solid 3px #efefef;
 		border-radius: 0.35em;
+		box-shadow: 2px 2px 90px #ff0990,2px 2px 400px #ff0990;
 		cursor: pointer;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 	}
