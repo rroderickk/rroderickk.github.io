@@ -40,3 +40,12 @@ alias gcy=git checkout rightYellow
 
 #### g c l 5
 <img src="/images/fulls/emtheme/gcl5.png" class="fit image" ref="glc5">
+
+#### g c l 6
+<img src="https://github.com/rroderickk/reactMatrixBackground/blob/original/theme/gcl6.png?raw=true" class="fit image" ref="glc5">
+
+#### g c l 7
+<img src="https://github.com/rroderickk/reactMatrixBackground/blob/original/theme/gcl7.png?raw=true" class="fit image" ref="glc5">
+
+#### g c l 8
+<img src="https://github.com/rroderickk/reactMatrixBackground/blob/original/theme/gcl8.png?raw=true" class="fit image" ref="glc5">
