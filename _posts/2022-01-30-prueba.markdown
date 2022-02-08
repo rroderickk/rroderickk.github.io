@@ -1,0 +1,12 @@
+---
+title: TemporalCv1 
+layout: post
+---
+# PlatziCards
+<img src="/images/fulls/sc1.png" class="fit image" alt="1"/>
+<img src="/images/fulls/sc2.png" class="fit image" alt="2"/>
+<img src="/images/fulls/sc3.png" class="fit image" alt="3"/>
+<img src="/images/fulls/sc4.png" class="fit image" alt="4"/>
+
+
+<img src="/images/fulls/13.gif" class="fit image">
