@@ -1,8 +1,8 @@
 - name: Linkedin
   social_icon: Linkedin
-  link: 'https://www.linkedin.com/in/rodrigo-moreno-rr'
+  link: "https://www.linkedin.com/in/rodrigo-moreno-rr"
   new_window: true
 - name: RSS
-  link: '/feed.xml'
+  link: "/2022/01/30/TemporaCv1/"
   social_icon: RSS
   new_window: true
