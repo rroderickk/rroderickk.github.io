@@ -18,6 +18,7 @@ Simple, clean personal blogging template for Jekyll based on Strata by HTML5 UP.
 * SEO tags
 * Google Analytics
 * Webmaster Verification
+* Merged
 
 ## Develop
 
